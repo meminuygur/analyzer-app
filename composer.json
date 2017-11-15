@@ -1,0 +1,16 @@
+{
+    "name": "meminuygur/analyzer-app",
+    "description": "Phrase Analyser",
+    "type": "project",
+    "require": {
+        "meminuygur/analyzer": "^1.0",
+        "phpunit/phpunit": "5.2.*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "meminuygur",
+            "email": "meminuygur@yandex.com"
+        }
+    ]
+}
